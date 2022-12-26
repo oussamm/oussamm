@@ -1,5 +1,5 @@
 👋 Hi, I’m Oussama !
-- 👀 I’m interested in 📚, ✈️, 🎮 and more.
+- 👀 I’m interested in 📚, ✈️, 🎮 and meeting new people.
 - 🌱 I’m currently improving my knowledge to code by design.
 - 💞️ I’m looking to collaborate on Blockchain projects ⛓️ or any new technologie projects using Go. 
 - 📫 How to reach me : o.moulana@gmail.com
