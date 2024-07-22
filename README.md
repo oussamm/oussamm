@@ -4,7 +4,7 @@
 
 I specialize in writing clean, maintainable Go code with a focus on robust architecture. My interests span from building reliable APIs to exploring AI and blockchain technologies.
 
-**🔧 What I'm working on:**
+**🛠️ What I'm working on:**
 - Developing maintainable Go applications
 - Exploring AI integrations in Go projects
 - Building blockchain solutions
