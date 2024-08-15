@@ -20,7 +20,7 @@ I specialize in writing clean, maintainable Go code with a focus on robust archi
 - Innovative tech that combines Go, AI, and blockchain
 
 **📚 Beyond coding:**
-- 📖 Reading: Delving into the wonders of the Islamic Golden Age and its contributions to science and philosophy
+- 📖 Reading: Exploring the scientific and philosophical breakthroughs of the Middle Eastern Golden Age
 - ✈️ Travel: Planning my next trip back to Japan (Tokyo keeps calling!)
 - 🎮 Gaming: Exploring neon-lit streets in Cyberpunk games and mining with friends in Deep Rock Galactic
 
