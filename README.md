@@ -1,6 +1,6 @@
 **👋** Hi, I'm Oussama!
 
-**🚀 Go Developer | 🔗 Blockchain Explorer | 🤖 AI Enthusiast**
+**🚀 Go Developer | 🔗 Blockchain Explorer**
 
 I specialize in writing clean, maintainable Go code with a focus on robust architecture. My interests span from building reliable APIs to exploring AI and blockchain technologies.
 
